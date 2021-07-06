@@ -1,0 +1,7 @@
+npm install
+  
+启动mongodb数据库
+
+cd client --npm run dev
+cd server--node app.js
+
